@@ -18,12 +18,14 @@ Feel free to follow me here on GitHub to stay updated on my latest projects. Let
 You can reach out to me at [akjroller@gmail.com](mailto:akjroller@gmail.com)
 
 <details>
+<summary>📊 GitHub Stats</summary>
+<br>
 <p align="center">
   <a href="https://github.com/akjroller">
     <img src="https://github-readme-stats.vercel.app/api?username=akjroller&show_icons=true&count_private=true&theme=transparent" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/akjroller">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akjroller&langs_count=10&layout=compact&theme=transparent" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akjroller&theme=transparent" alt="GitHub Streak" />
   </a>
 </p>
 </details>

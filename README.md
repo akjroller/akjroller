@@ -22,10 +22,14 @@ You can reach out to me at [akjroller@gmail.com](mailto:akjroller@gmail.com)
 <br>
 <p align="center">
   <a href="https://github.com/akjroller">
-    <img src="https://github-readme-stats.vercel.app/api?username=akjroller&show_icons=true&count_private=true&theme=transparent" alt="GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akjroller&theme=monokai" alt="GitHub Profile Summary" />
   </a>
   <a href="https://github.com/akjroller">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akjroller&theme=transparent" alt="GitHub Streak" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akjroller&theme=monokai" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/akjroller">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akjroller&theme=monokai" alt="GitHub Stats" />
   </a>
 </p>
 </details>
+

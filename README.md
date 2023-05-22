@@ -1,5 +1,5 @@
 # Hello there! 👋
-I'm Kristopher Roller, a first-year computer science student passionate about programming and technology.
+I'm Kristopher Roller also known as akjroller or awakengaming83, a first-year computer science student passionate about programming and technology.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/akjroller/collatz-conjecture-explorer)
 

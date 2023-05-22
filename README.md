@@ -30,6 +30,9 @@ You can reach out to me at [akjroller@gmail.com](mailto:akjroller@gmail.com)
   <a href="https://github.com/akjroller">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akjroller&theme=transparent" alt="GitHub Stats" />
   </a>
+   <a href="https://github.com/akjroller">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akjroller&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
 </p>
 </details>
 

@@ -12,3 +12,5 @@ In the past year, I've made 22 contributions to my projects. I enjoy dedicating 
 
 ## 🌐 Where to find me
 Feel free to follow me here on GitHub to stay updated on my latest projects. Let's connect and build together!
+
+You can reach out to me at [akjroller@gmail.com](mailto:akjroller@gmail.com)

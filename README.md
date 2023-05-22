@@ -32,3 +32,9 @@ You can reach out to me at [akjroller@gmail.com](mailto:akjroller@gmail.com)
   </a>
 </p>
 </details>
+
+<p align="center">
+  <a href="https://github.com/akjroller">
+    <img src="https://komarev.com/ghpvc/?username=akjroller&color=blue&style=flat)" />
+  </a>
+</p>

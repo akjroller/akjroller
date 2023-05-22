@@ -2,7 +2,7 @@
 I'm Kristopher Roller, a first-year computer science student passionate about programming and technology.
 
 ## 📚 What I'm currently learning
-I'm currently improving my skills in Python and exploring the fascinating world of algorithms. I'm working on projects that can help me strengthen my understanding of concepts learned in class.
+I'm currently honing my skills in Python, diving into the world of RESTful APIs, and uncovering the fascinating domain of Data Science. I'm especially interested in exploratory data analysis (EDA) and how it can reveal hidden patterns and insights in data. I'm working on projects that aim to strengthen my understanding of these concepts and apply them in real-world scenarios.
 
 ## 🛠️ My Projects
 My primary repository at the moment is [`collatz-conjecture-explorer`](https://github.com/akjroller/collatz-conjecture-explorer). It's a computational service and API for exploring and understanding the Collatz Conjecture. This project continuously calculates Collatz sequences from any given number and stores the results in a SQLite database for further exploration.

@@ -8,7 +8,7 @@ I'm currently honing my skills in Python, diving into the world of RESTful APIs,
 My primary repository at the moment is [`collatz-conjecture-explorer`](https://github.com/akjroller/collatz-conjecture-explorer). It's a computational service and API for exploring and understanding the Collatz Conjecture. This project continuously calculates Collatz sequences from any given number and stores the results in a SQLite database for further exploration.
 
 ## 💡 What I'm up to
-In the past year, I've made 22 contributions to my projects. I enjoy dedicating time to improve my code and learning new things along the way.
+I'm constantly exploring new technologies and concepts, eager to apply what I learn to my projects. Right now, I'm diving deeper into data science, particularly exploratory data analysis, and learning more about building and working with RESTful APIs. I'm also excited about the possibility of integrating machine learning into my future projects. Stay tuned for more exciting updates!
 
 ## 🌐 Where to find me
 Feel free to follow me here on GitHub to stay updated on my latest projects. Let's connect and build together!

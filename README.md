@@ -1,7 +1,9 @@
 # Hello there! 👋
 I'm Kristopher Roller also known as akjroller or awakengaming83, a first-year computer science student passionate about programming and technology.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/akjroller/collatz-conjecture-explorer)
+![GitHub last commit](https://img.shields.io/github/last-commit/akjroller/Diablo-4-XP-and-gold-per-hour)
+
+![GitHub commits](https://github-readme-stats.vercel.app/api?username=akjroller&include_all_commits=true&count_private=true)
 
 ## 📚 What I'm currently learning
 I'm currently honing my skills in Python, diving into the world of RESTful APIs, and uncovering the fascinating domain of Data Science. I'm especially interested in exploratory data analysis (EDA) and how it can reveal hidden patterns and insights in data. I'm working on projects that aim to strengthen my understanding of these concepts and apply them in real-world scenarios.

@@ -1,24 +1,20 @@
-# Hello there! 👋
-I'm Kristopher Roller also known as akjroller or awakengaming83, a first-year computer science student passionate about programming and technology.
+# Hi there! 👋 I'm Kristopher Roller.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/akjroller/Diablo-4-XP-and-gold-per-hour)
+Also known as akjroller or awakengaming83, I'm a Computer Science student with a strong passion for coding and tech innovation, especially in the realm of Discord bot development.
 
-## 📚 What I'm currently learning
-I'm currently honing my skills in Python, diving into the world of RESTful APIs, and uncovering the fascinating domain of Data Science. I'm especially interested in exploratory data analysis (EDA) and how it can reveal hidden patterns and insights in data. I'm working on projects that aim to strengthen my understanding of these concepts and apply them in real-world scenarios.
+![GitHub last commit](https://img.shields.io/github/last-commit/akjroller/Diablo-4-Events-Tracker)
 
-## 🛠️ My Projects
-My primary repository at the moment is [`collatz-conjecture-explorer`](https://github.com/akjroller/collatz-conjecture-explorer). It's a computational service and API for exploring and understanding the Collatz Conjecture. This project continuously calculates Collatz sequences from any given number and stores the results in a SQLite database for further exploration.
+## 🎮 Current Project: Diablo 4 Events Tracker (D4ET)
+My standout project at the moment is the [`Diablo 4 Event Tracker (D4ET)`](https://github.com/akjroller/Diablo-4-Events-Tracker). This Discord bot is designed for the Diablo 4 gaming community, providing real-time alerts for various in-game events. D4ET is currently active on **2516 Discord servers**, serving **248823 users** and has successfully sent over **2,465,541 alerts**! It enhances the gaming experience by ensuring players never miss important events and outperforms other similar bots in terms of speed and reliability.
 
-## 💡 What I'm up to
-I'm constantly exploring new technologies and concepts, eager to apply what I learn to my projects. Right now, I'm diving deeper into data science, particularly exploratory data analysis, and learning more about building and working with RESTful APIs. I'm also excited about the possibility of integrating machine learning into my future projects. Stay tuned for more exciting updates!
+## 🚀 Future Plans for D4ET
+While D4ET already provides a significant amount of value to the Diablo 4 community, I'm continuously looking for ways to improve and expand its features. I'm keen on further refining its performance and exploring new functionalities that can be added. Stay tuned for more exciting updates!
 
-## 🌐 Where to find me
-Feel free to follow me here on GitHub to stay updated on my latest projects. Let's connect and build together!
-
-You can reach out to me at [akjroller@gmail.com](mailto:akjroller@gmail.com)
+## 🌍 Let's Connect
+Let's build the future of Discord bots together. Follow me on GitHub to stay updated with my progress. If you're interested in connecting or discussing potential collaborations, you can reach me at [akjroller@gmail.com](mailto:akjroller@gmail.com).
 
 <details>
-<summary>📊 GitHub Stats</summary>
+<summary>📈 My GitHub Stats</summary>
 <br>
 <p align="center">
   <a href="https://github.com/akjroller">

@@ -5,7 +5,7 @@ Also known as akjroller or awakengaming83, I'm a Computer Science student with a
 ## 🎮 Current Project: Diablo 4 Events Tracker (D4ET)
 My standout project at the moment is the [`Diablo 4 Event Tracker (D4ET)`](https://discord.com/oauth2/authorize?client_id=1118297246379806781&permissions=2147568640&scope=bot%20applications.commands). This Discord bot is designed for the Diablo 4 gaming community, providing real-time alerts for various in-game events.
 
-D4ET is currently active on over **3,000 Discord servers**, serving more than **450,000 users**, and has successfully sent over **2.5M alerts**! 
+D4ET is currently active on over **3,000 Discord servers**, serving more than **450,000 users**, and has successfully sent over **7.5M alerts**! 
 
 It enhances the gaming experience by ensuring players never miss important events and outperforms other similar bots in terms of speed and reliability.
 
